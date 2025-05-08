@@ -3,7 +3,7 @@
 
 My name is Dylan Campbell and I am currently a student at Arizona State University - Online.
 
-- I'm studying Data Science with a business analytics focus - tentative graduation planned for December of 2025.
+- I'm studying Data Science with a business analytics focus - graduation planned for December of 2025.
 - I'm currently gaining experience with Python, R, and SQL.
 - I primarily use  Jupyter Notebook through Anaconda Navigator.
 - I have done some school projects on real data from the National Football League (NFL) and Steam (application, storefront). 
